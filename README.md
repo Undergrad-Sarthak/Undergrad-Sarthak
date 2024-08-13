@@ -3,7 +3,7 @@
 - 🌱 Currently learning web-dev, bit of AI and bit of finance to create fintech projects in future.
 - 📫 You can reach me on my mail: sarthakj337@gmail.com or on whatsapp number: +919992100600
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: will be pursuing my postgrad in CS somewhere in USA in 2025.
+- ⚡ Fun fact: will be pursuing my CSE postgrad somewhere in USA in 2025.
 
 <!---
 Undergrad-Sarthak/Undergrad-Sarthak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
